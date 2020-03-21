@@ -22,7 +22,7 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 ```
 
-3. Start MySQL 
+3. Start MySQL.
 
 ```
 
@@ -31,7 +31,7 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 ```
 
-4. Now a default root password will be generated and given in the log file
+4. Now a default root password will be generated and given in the log file.
 
 ```
 
