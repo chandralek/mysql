@@ -31,7 +31,7 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 ```
 
-Now a default root password will be generated and given in the log file
+4. Now a default root password will be generated and given in the log file
 
 ```
 
@@ -39,7 +39,7 @@ Now a default root password will be generated and given in the log file
 
 ```
 
-Next, We need to change the default root password in order to start using the database service.
+5. Next, We need to change the default root password in order to start using the database service.
 
 
 ```
