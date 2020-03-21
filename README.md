@@ -79,6 +79,10 @@ So we need to load that schema into database, So those applications will dectect
 
 **Download this repo, Using Zip Link**
 
+To download, Use the following command
+
+`git clone <URL>` , URL can be fetched from 
+
 1. Load the schema for Shipping Service.
 
 ```
