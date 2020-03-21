@@ -1,2 +1,3 @@
-# mysql
+# Manual Steps to Install MySQL 
+
 
