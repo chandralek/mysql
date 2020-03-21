@@ -31,7 +31,11 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 ```
 
-Now a default root password will be 
+Now a default root password will be generated and given in the log file
+
+```
+
+# cat /var.
 
 ## Automated Script to Install MySQL 
 
