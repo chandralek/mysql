@@ -80,5 +80,6 @@ To download, Use the following command
 
 ```
 # cd mysql
-# gunzip 
+# gunzip shipping.sql.gz
+# mysql -u root -p <>
 
