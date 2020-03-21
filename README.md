@@ -81,7 +81,7 @@ So we need to load that schema into database, So those applications will dectect
 
 To download, Use the following command
 
-`git clone <URL>` , URL can be fetched from 
+`git clone <URL>` , URL can be fetched from GitLab
 
 1. Load the schema for Shipping Service.
 
