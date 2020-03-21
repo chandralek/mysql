@@ -48,6 +48,8 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 ```
 
+6. You can check the 
+
 ## Automated Script to Install MySQL 
 
 ```
