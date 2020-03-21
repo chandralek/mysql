@@ -31,6 +31,7 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 ```
 
+Now a default root password will be 
 
 ## Automated Script to Install MySQL 
 
