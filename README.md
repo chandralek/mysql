@@ -39,6 +39,8 @@ Now a default root password will be generated and given in the log file
 
 ```
 
+
+
 ## Automated Script to Install MySQL 
 
 ```
