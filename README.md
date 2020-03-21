@@ -15,6 +15,8 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 ```
 
+# yum install mysql-community-client-5.7.28-1.el7.x86_64.rpm \
+              mysql-community-common-5.7.28-1.el7.x86_64.rpm mysql-community-libs-5.7.28-1.el7.x86_64.rpm mysql-community-server-5.7.28-1.el7.x86_64.rpm -y 
 
 
 ```
