@@ -63,3 +63,7 @@ As per the Application need we are choosing MySQL 5.7 version.
 # curl -s https://raw.githubusercontent.com/linuxautomations/labautomation/master/tools/mysql/install-5.7.sh | bash
 
 ```
+
+
+
+# Setup Needed for Application.
