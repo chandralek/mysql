@@ -39,7 +39,7 @@ Now a default root password will be generated and given in the log file
 
 ```
 
-
+Next, We need to change the root password in order to 
 
 ## Automated Script to Install MySQL 
 
