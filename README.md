@@ -1,6 +1,10 @@
 ## Manual Steps to Install MySQL 
 
+1. Download MySQL 
 
+```
+
+```
 
 ## Automated Script to Install MySQL 
 
