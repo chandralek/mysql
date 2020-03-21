@@ -1,5 +1,6 @@
 ## Manual Steps to Install MySQL 
 
+As per the Application need we are choosing MySQL 
 1. Download MySQL 
 
 ```
