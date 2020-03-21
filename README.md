@@ -35,7 +35,9 @@ Now a default root password will be generated and given in the log file
 
 ```
 
-# cat /var.
+# cat /var/log/mysqld.log
+
+```
 
 ## Automated Script to Install MySQL 
 
