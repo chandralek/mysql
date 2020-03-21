@@ -48,7 +48,7 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 ```
 
-6. You can check the 
+6. You can check the password 
 
 ## Automated Script to Install MySQL 
 
