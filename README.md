@@ -78,5 +78,5 @@ As per the architecture diagram, MySQL is needed by
 So we need to load that schema into database, So those applications will dectect them and run accordingly.
 
 
-
+1. Load the schema for 
 
