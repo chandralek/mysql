@@ -80,5 +80,5 @@ To download, Use the following command
 
 ```
 # cd mysql
-# cd 
+# gunzip 
 
