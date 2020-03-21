@@ -68,3 +68,4 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 # Setup Needed for Application.
 
+As per the architecture diagram, MySQL is needed by
