@@ -5,7 +5,6 @@ As per the Application need we are choosing MySQL 5.7 version.
 1. Download and Extract MySQL 
 
 ```
-
 # wget https://downloads.mysql.com/archives/get/p/23/file/mysql-5.7.28-1.el7.x86_64.rpm-bundle.tar 
 # tar -xf mysql-5.7.28-1.el7.x86_64.rpm-bundle.tar 
 
@@ -14,7 +13,6 @@ As per the Application need we are choosing MySQL 5.7 version.
 2. Install MySQL  
 
 ```
-
 # yum install mysql-community-client-5.7.28-1.el7.x86_64.rpm \
               mysql-community-common-5.7.28-1.el7.x86_64.rpm \
               mysql-community-libs-5.7.28-1.el7.x86_64.rpm \
@@ -25,7 +23,6 @@ As per the Application need we are choosing MySQL 5.7 version.
 3. Start MySQL.
 
 ```
-
 # systemctl enable mysqld 
 # systemctl start mysqld
 
@@ -34,7 +31,6 @@ As per the Application need we are choosing MySQL 5.7 version.
 4. Now a default root password will be generated and given in the log file.
 
 ```
-
 # cat /var/log/mysqld.log
 
 ```
@@ -43,11 +39,9 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 
 ```
-
 # mysql_secure_installation
 
 ```
-
 6. You can check the new password working or not using the following command.
 
 ```
@@ -59,7 +53,6 @@ As per the Application need we are choosing MySQL 5.7 version.
 ## Automated Script to Install MySQL 
 
 ```
-
 # curl -s https://raw.githubusercontent.com/linuxautomations/labautomation/master/tools/mysql/install-5.7.sh | bash
 
 ```
@@ -86,6 +79,6 @@ To download, Use the following command
 1. Load the schema for Shipping Service.
 
 ```
-
-# wg
+# cd mysql
+# 
 
