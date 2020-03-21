@@ -22,6 +22,16 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 ```
 
+3. Start MySQL 
+
+```
+
+# systemctl enable mysqld 
+# systemctl start mysqld
+
+```
+
+
 ## Automated Script to Install MySQL 
 
 ```
