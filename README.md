@@ -39,7 +39,7 @@ Now a default root password will be generated and given in the log file
 
 ```
 
-Next, We need to change the default root password in order to start using the database service
+Next, We need to change the default root password in order to start using the database service.
 
 ## Automated Script to Install MySQL 
 
