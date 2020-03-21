@@ -88,5 +88,6 @@ To download, Use the following command
 
 ```
 # cd mysql 
-# mysql -u root -p <shipping.sql
+# mysql -u root -p <ratings.sql
+```
 
