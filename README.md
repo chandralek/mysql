@@ -72,4 +72,7 @@ As per the architecture diagram, MySQL is needed by
 
   - shipping service
 
-  - 
+  - rating service 
+
+
+So we need to load those schema
