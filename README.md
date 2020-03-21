@@ -87,5 +87,6 @@ To download, Use the following command
 2. Load the Schema for Ratings Service
 
 ```
-# 
+# cd mysql 
+# mysql -u root -p <shipping.sql
 
