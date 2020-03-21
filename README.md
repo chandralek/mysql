@@ -13,6 +13,8 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 2. Install MySQL  
 
+
+
 ## Automated Script to Install MySQL 
 
 ```
