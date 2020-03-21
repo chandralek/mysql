@@ -75,5 +75,5 @@ As per the architecture diagram, MySQL is needed by
   - rating service 
 
 
-So we need to load that schema into database.
+So we need to load that schema into database, So those applications will dectect them and 
 
