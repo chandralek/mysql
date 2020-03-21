@@ -70,7 +70,7 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 As per the architecture diagram, MySQL is needed by 
 
-  - shipping service
+  - Shipping service
 
   - rating service 
 
@@ -78,5 +78,5 @@ As per the architecture diagram, MySQL is needed by
 So we need to load that schema into database, So those applications will dectect them and run accordingly.
 
 
-1. Load the schema for 
+1. Load the schema for Shipping Service
 
