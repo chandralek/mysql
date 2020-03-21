@@ -48,7 +48,13 @@ As per the Application need we are choosing MySQL 5.7 version.
 
 ```
 
-6. You can check the new password working or not using the following password
+6. You can check the new password working or not using the following command.
+
+```
+
+# 
+
+```
 
 ## Automated Script to Install MySQL 
 
