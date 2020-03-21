@@ -1,6 +1,7 @@
 ## Manual Steps to Install MySQL 
 
-As per the Application need we are choosing MySQL 
+As per the Application need we are choosing MySQL 5.7 version.
+
 1. Download MySQL 
 
 ```
