@@ -44,7 +44,9 @@ Next, We need to change the default root password in order to start using the da
 
 ```
 
+# mysql_secure_installation
 
+```
 
 ## Automated Script to Install MySQL 
 
