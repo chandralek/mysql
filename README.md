@@ -70,8 +70,6 @@ As per the architecture diagram, MySQL is needed by
 
 So we need to load that schema into database, So those applications will dectect them and run accordingly.
 
-**Download this repo, Using Zip Link**
-
 To download, Use the following command
 
 `git clone <URL>` , URL can be fetched from GitLab, Use **HTTPS** link.
