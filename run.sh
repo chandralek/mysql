@@ -14,8 +14,7 @@ then
     exit 1
 fi
 
-sleep 120
-while true:
+while true ;
 do
   echo "zzzz"
   nc -i 10 -z ${MYSQL_DB_URL} 3306
@@ -26,6 +25,6 @@ do
     sleep 30
     continue
   fi
-  mysql -u root -p${MYSQL_ROOT_PASSWORD} -h{MYSQL_DB_URL}< /tmp/ratings.sql
-  mysql -u root -p${MYSQL_ROOT_PASSWORD} -h{MYSQL_DB_URL}< /tmp/shipping.sql
+  mysql -u root -p${MYSQL_ROOT_PASSWORD} -h${MYSQL_DB_URL}< /tmp/ratings.sql
+  mysql -u root -p${MYSQL_ROOT_PASSWORD} -h${MYSQL_DB_URL}< /tmp/shipping.sql
 done
