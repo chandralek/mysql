@@ -23,6 +23,10 @@ do
     sleep 30
     continue
   fi
-  mysql -u root -p${MYSQL_ROOT_PASSWORD} -h${MYSQL_DB_URL}< /tmp/ratings.sql
-  mysql -u root -p${MYSQL_ROOT_PASSWORD} -h${MYSQL_DB_URL}< /tmp/shipping.sql
+  git clone https://rkb03:password@gitlab.com/batch46/robo-shop/mysql.git
+  cd mysql
+  mysql -u root -p${MYSQL_ROOT_PASSWORD} -h ${MYSQL_DB_URL} <ratings.sql
+  mysql -u root -p${MYSQL_ROOT_PASSWORD} -h ${MYSQL_DB_URL} <shipping.sql
+
+  exit $?
 done
