@@ -14,6 +14,7 @@ then
     exit 1
 fi
 
+sleep 120
 while true:
 do
   echo "zzzz"
