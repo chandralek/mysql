@@ -16,7 +16,9 @@ fi
 
 while true:
 do
+  echo "zzzz"
   nc -i 10 -z ${MYSQL_DB_URL} 3306
+  echo "xxxx"
   if [ $? -ne 0 ];
   then
     echo "Port is not yet up"
