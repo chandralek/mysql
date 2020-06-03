@@ -14,7 +14,7 @@ then
     exit 1
 fi
 
-while true  ;
+while true ;
 do
   nc -i 10 -z ${MYSQL_DB_URL} 3306
   if [ $? -ne 0 ];
